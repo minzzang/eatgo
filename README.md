@@ -1,2 +1,0 @@
-# eatgo
-rest api project
